@@ -11,7 +11,7 @@
 - 💻 I have experience in **Java, SQL, HTML, CSS, JavaScript, Git & GitHub**  
 - 📍 Location: **Uchan, India**  
 - 📞 Contact: **6267298320**  
-- 📫 Reach me at: **mayanksisodiya2004@gmail.com 
+- 📫 Reach me at: **mayanksisodiya2004@gmail.com**  
 
 ---
 
@@ -45,10 +45,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mayank-sisodiya&show_icons=true&locale=en&layout=compact" alt="mayank-sisodiya" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mayank-sisodiya&show_icons=true&locale=en" alt="mayank-sisodiya" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayank-sisodiya&" alt="mayank-sisodiya" />
-</p>
