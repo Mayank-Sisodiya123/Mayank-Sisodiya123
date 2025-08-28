@@ -11,7 +11,7 @@
 - 💻 I have experience in **Java, SQL, HTML, CSS, JavaScript, Git & GitHub**  
 - 📍 Location: **Uchan, India**  
 - 📞 Contact: **6267298320**  
-- 📫 Reach me at: **[your-email@example.com]** (replace with your email)  
+- 📫 Reach me at: **mayanksisodiya2004@gmail.com 
 
 ---
 
